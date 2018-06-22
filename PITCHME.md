@@ -1,4 +1,4 @@
-# printf("Hello CTO World!")
+## print("Hello CTO World!")
 
 ---
 
@@ -25,14 +25,10 @@
 * 使える言語 (≒ 使ったことがある)
     * Python, Ruby, Perl, PHP, C <br />
       VisualC++, Java, JavaScript
-
----
-
-## Who are you?
-
 * OSS 開発者
     * Sphinx
     * blockdiag
+    * その他こまいの
 * Open Source Peer Bonus (2017) 受賞
 
 ---
@@ -40,7 +36,7 @@
 ## Who are you?
 
 そこそこ草生えてる <br />
-![コミットログ](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/contributors.png?raw=true)
+![コミットログ](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/contributions.png)
 
 ---
 
@@ -57,91 +53,109 @@
 
 ## Who are you?
 
-CTO [new!]
+<span style="font-size: 288px">CTO</span>
+<img src="https://github.com/tk0miya/tim-slide-20180622/blob/master/images/new_red.png?raw=true" style="width: 96px; vertical-align: top; border: 0px; box-shadow: 0 0 0">
 
 ---
 
-# What is CTO
+# What is CTO?
 
 ---
 
-## What is CTO
+## What is CTO?
 
->最高技術責任者の役割は企業、産業の間で様々である。しかし、大体の場合、技術に関連している。以下のような役割が含まれる。
->
->・短期間の（戦略的な）技術的方向性決定
->・研究開発のビジネス的な監督
->・企業内でのソフトウェアの利用
+```
+最高技術責任者は ビジネス幹部のポジションで、
+会社における技術的な役割に焦点をあてたものである。
+(略)
+最高技術責任者の役割は企業、産業の間で様々である。
+しかし、大体の場合、技術に関連している。
+以下のような役割が含まれる。
+
+・短期間の（戦略的な）技術的方向性決定
+・研究開発のビジネス的な監督
+・企業内でのソフトウェアの利用
+```
 
 <small>(wikipedia より)</small>
 
 ---
 
-## What is CTO
+## What is CTO?
 
-<large>🤔</large>
+<span style="font-size: 384px">🤔</span>
 
 ---
 
-## What is CTO
+## What is CTO?
 
 <!-- https://qiita.com/takano1222/items/ef897b2156067688f3ae -->
-![whats_cto_qiita](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/whats_cto_qiita.png?raw=true)
+![whats_cto_qiita](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/whats_cto_qiita.png)
 
 ---
 
-## What is CTO
+## What is CTO?
 
 <!-- https://career.levtech.jp/guide/knowhow/article/296/ -->
-![whats_cto_levtech](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/whats_cto_levtech.png?raw=true)
+![whats_cto_levtech](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/whats_cto_levtech.png)
 
 ---
 
-## What is CTO
+## What is CTO?
 
 <!-- http://developer.hatenastaff.com/entry/technical-portfolio -->
-![whats_cto_hatena](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/whats_cto_hatena.png?raw=true)
+![whats_cto_hatena](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/whats_cto_hatena.png)
 
 ---
 
-## What is CTO
+## What is CTO?
 
 <!-- http://careerhack.en-japan.com/report/detail/847 -->
-![whats_cto_careerhack](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/whats_cto_careerhack.png?raw=true)
+![whats_cto_careerhack](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/whats_cto_careerhack.png)
 
 ---
 
-## What is CTO
+## What is CTO?
 
 <!-- https://twitter.com/mizchi/status/1001055069167538176 -->
-![whats_cto_mizch](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/whats_cto_mizch.png?raw=true)
+![whats_cto_mizch](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/whats_cto_mizch.png)
 
 ---
 
-## What is CTO
+## What is CTO?
 
-どうやらいろんな CTO の役割はいろいろあるらしい
-
----
-
-# What is TIM's CTO
+どうやらいろんな CTO の役割は<br />
+いろいろあるらしい
 
 ---
 
-# What is TIM's CTO
+# What is TIM's CTO?
+
+---
+
+# What is TIM's CTO?
 
 > 小宮ＣＴＯからは技術者がワクワクするような会社にしたいとのアピールがありました。
 
----
-
-# What is TIM's CTO
-
-TIM をすごい会社にしてくれる? <br />
-![MAGA](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/MAGA.png?raw=true)
+<small>(社長のメールより)</small>
 
 ---
 
-# What is TIM's CTO
+# What is TIM's CTO?
+
+TIM をワクワクする会社にしてくれる? <br />
+![MAGA](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/MAGA.jpg)
+
+---
+
+## What is CTO?
+
+(言ったおぼえないです…) <br />
+<span style="font-size: 288px">🤔</span>
+
+---
+
+# What is TIM's CTO?
 
 * 技術の方向性を決めてくれる?
 * 今後進むべき方向性を決めてくれる?
@@ -149,13 +163,13 @@ TIM をすごい会社にしてくれる? <br />
 
 ---
 
-# What is TIM's CTO
+# What is TIM's CTO?
 
 無理です。
 
 ---
 
-# What is TIM's CTO
+# What is TIM's CTO?
 
 * 技術的なビジョンは持ってません
 * 流行りの技術にほとんど興味が無いです
@@ -163,18 +177,18 @@ TIM をすごい会社にしてくれる? <br />
 
 ---
 
-# What is TIM's CTO
+# What is TIM's CTO?
 
 じゃあ何をやるのさ? <br />
-<large>🤔</large>
+<span style="font-size: 288px">🤔</span>
 
 ---
 
-# 現在TIMが抱えている問題
+# 僕たちが抱えている問題
 
 ---
 
-## 現在TIMが抱えている問題
+## 僕たちが抱えている問題
 
 * 他のチームが見えない
 * そもそも常駐でいない
@@ -185,29 +199,33 @@ TIM をすごい会社にしてくれる? <br />
 
 ---
 
-## 現在TIMが抱えている問題
+## 僕たちが抱えている問題
 
-→ なんだか<B>もにょっと</B>する
-
----
-
-## 現在TIMが抱えている問題
-
-閉塞感
+一言で言うと <br />
+なんだか<B>もにょっと</B>する <br />
+<small>僕だけ?</small>
 
 ---
 
-## 現在TIMが抱えている問題
+## 僕たちが抱えている問題
 
-ここについて考えていきます
-
----
-
-# 小宮が考えていること
+<small>言い換えると</small><br />>
+<span style="font-size: 192px">閉塞感</span>
 
 ---
 
-## 小宮が考えていること
+## 僕たちが抱えている問題
+
+* ちょっとした掛け違いで閉塞感が生まれている
+* ここにメスを入れていきたい
+
+---
+
+# 考えていること
+
+---
+
+## 考えていること
 
 * 技術を楽しむ
 * 自分が仕事の主役になる
@@ -268,15 +286,17 @@ TIM をすごい会社にしてくれる? <br />
 
 ---
 
-# 実際どう進めていくの?
+# どう進めていくの?
 
 ---
 
-## 実際どう進めていくの?
+## どう進めていくの?
 
 * 今のところ、スローガンしかない
 * まずはどういう問題があるのかを見つけていこう
 * できることからひとつずつ
+* ちょっと待っててください
+* アイディア/困ってることがあったら声を掛けて！
 
 ---
 
@@ -291,12 +311,12 @@ TIM をすごい会社にしてくれる? <br />
 
 ---
 
-# よろしくおねがいします
+# よろしく<br />おねがいします
 
 ---
 
 <!-- https://twitter.com/mizchi/status/953140122978893824 -->
-![come_on_cto](https://github.com/tk0miya/tim-slide-20180622/blob/master/images/come_on_cto.png?raw=true)
+![come_on_cto](https://raw.githubusercontent.com/tk0miya/tim-slide-20180622/master/images/come_on_cto.png)
 
 ---
 
@@ -304,7 +324,7 @@ TIM をすごい会社にしてくれる? <br />
 
 ---
 
-# Any Question?
+---
 
 ---
 
@@ -324,9 +344,6 @@ TIM をすごい会社にしてくれる? <br />
 ## おまけ(1)
 
 * 委員会
-* 勉強会
+* 社内勉強会
 * Openness
 * MINASWAN
-
-
-
