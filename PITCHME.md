@@ -209,7 +209,7 @@ TIM をワクワクする会社にしてくれる? <br />
 
 ## 僕たちが抱えている問題
 
-<small>言い換えると</small><br />>
+<small>言い換えると</small><br />
 <span style="font-size: 192px">閉塞感</span>
 
 ---
